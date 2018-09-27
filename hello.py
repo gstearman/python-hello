@@ -1,9 +1,12 @@
 #Python Hello World
-#Try
 x = "Hello"
 y = "World"
 print(x)
-# You can add "\n" to force a new line after printing World.
+print(y)
+
+
+# You can add (concatenate) the string "\n" to force a new line after printing World.
+print(x)
 print(y+"\n")
 
 # Experiements with variables and strings
